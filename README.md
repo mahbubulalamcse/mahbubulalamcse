@@ -38,7 +38,7 @@ Skills: PHP / JAVA / GRAILS / JS / JQUERY / AJAX / HTML / CSS/ BOOTSTRAP
       </tr>
       <tr>
         <td>E-ticket</td>
-        <td> Ticketing system for problem Solving for Walton Group </td>
+        <td>IT related problem solving request system for Walton Group</td>
         <td>8K+ User use this E-ticket system</td>
       </tr>
       <tr>
