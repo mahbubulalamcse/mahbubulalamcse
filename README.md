@@ -9,7 +9,8 @@ I’m a full-stack web developer with experience in building websites for small 
 I’m experienced in HTML and CSS 3, Bootstrap, PHP, JavaScript, jQuery, Ajax
 I’ll fully project manage your brief from start to finish
 
-Skills: PHP / JAVA / GRAILS / JS / JQUERY / AJAX / HTML / CSS/ BOOTSTRAP
+### Skills: 
+PHP / JAVA / GRAILS / JS / JQUERY / AJAX / HTML / CSS/ BOOTSTRAP / MYSQL / MSSQL
 
 - 🔭 I’m currently working on Walton Hi-tech Industries PLC. 
 - 💬 Ask me about Web Development 
